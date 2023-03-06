@@ -1,3 +1,3 @@
 # git-collab-example
 
-DRASTIC CHANGES
+different alterations
